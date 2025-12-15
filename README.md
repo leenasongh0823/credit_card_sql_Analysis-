@@ -11,7 +11,8 @@ This Project Analyze Credit card rewards precentage using SQL(SQLlite)
    - Github
      # key Queries
      - SELECT  Queries to retriever data
-     - ORDER BY to find highest reward Credit card
-     - WHERE clause  yo filter by spending category
-     -  ## Author
-     -  Leena Singh
+     - ORDER BY to find highest rewards credit card 
+     - WHERE clause  yo filter by.  spending category
+       
+   ## Project Use Case
+     This Project demonstrate how SQL can be used in Product and Business Analysis to compared offering , evaluate data-driven Decision .
